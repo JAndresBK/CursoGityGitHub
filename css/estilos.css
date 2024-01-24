@@ -8,9 +8,9 @@ body {
 }
 
 #cabeced {
-    background-color: blue;
+    background-color: crimson;
     box-shadow: 0px 5px 30px rgba(0,0,0,0.75);
-    color: white;
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
