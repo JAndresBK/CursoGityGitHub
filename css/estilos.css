@@ -5,6 +5,7 @@ body {
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: burlywood;
 }
 
 #cabeced {
@@ -36,4 +37,13 @@ body {
 
 #post {
     padding: 1em;
+}
+
+#footer {
+    color: blueviolet;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    text-align: center;
 }
